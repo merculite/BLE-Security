@@ -1,7 +1,7 @@
 # Hacking Bluetooth Low Energy Locks
 Bluetooth door hacking scripts that require Ubertooth or other devices to passively sniff.
 
-## Comaptible Devices
+## Compatible Devices
 - Quicklock Doorlock
 - Quicklock Padlock
 - iBluLock Padlock
